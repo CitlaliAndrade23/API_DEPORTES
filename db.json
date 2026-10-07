@@ -1,0 +1,49 @@
+{
+  "Deportes": [
+    {
+      "id": 1,
+      "nombre": "Fútbol",
+      "escenario": "Cancha de fútbol",
+      "dimensiones": "105 x 68 metros",
+      "numero_elementos": 11,
+      "equipo": "Playera, short, medias, espinilleras y tacos",
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 2,
+      "nombre": "Baloncesto",
+      "escenario": "Cancha de baloncesto",
+      "dimensiones": "28 x 15 metros",
+      "numero_elementos": 5,
+      "equipo": "Playera, short y tenis",
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 3,
+      "nombre": "Béisbol",
+      "escenario": "Campo de béisbol",
+      "dimensiones": "Variable",
+      "numero_elementos": 9,
+      "equipo": "Uniforme, gorra, guante y tacos",
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 4,
+      "nombre": "Voleibol",
+      "escenario": "Cancha de voleibol",
+      "dimensiones": "18 x 9 metros",
+      "numero_elementos": 6,
+      "equipo": "Playera, short, rodilleras y tenis",
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 5,
+      "nombre": "Tenis",
+      "escenario": "Cancha de tenis",
+      "dimensiones": "23.77 x 8.23 metros",
+      "numero_elementos": 1,
+      "equipo": "Playera, short, tenis y raqueta",
+      "pais": "Inglaterra"
+    }
+  ]
+}

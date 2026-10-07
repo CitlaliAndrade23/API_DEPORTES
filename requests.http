@@ -1,0 +1,37 @@
+### Ruta principal
+GET http://localhost:3000/
+
+
+### Mostrar todos los deportes
+GET http://localhost:3000/Deportes
+
+
+### Mostrar deporte por ID
+GET http://localhost:3000/Deportes/1
+
+
+### Agregar deporte
+POST http://localhost:3000/Deportes
+Content-Type: application/json
+
+{
+    "nombre": "Natación",
+    "escenario": "Piscina",
+    "dimensiones": "50 x 25 metros",
+    "numero_elementos": 1,
+    "equipo": "Traje de baño, gorro y goggles",
+    "pais": "Inglaterra"
+}
+
+
+### Actualizar deporte
+PUT http://localhost:3000/Deportes/1
+Content-Type: application/json
+
+{
+    "escenario": "Estadio de fútbol"
+}
+
+
+### Eliminar deporte
+DELETE http://localhost:3000/Deportes/6
