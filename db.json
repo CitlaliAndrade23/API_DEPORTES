@@ -44,6 +44,51 @@
       "numero_elementos": 1,
       "equipo": "Playera, short, tenis y raqueta",
       "pais": "Inglaterra"
+    },
+    {
+      "id": 6,
+      "nombre": "Natación",
+      "escenario": "Piscina olímpica",
+      "dimensiones": "50 x 25 metros",
+      "numero_elementos": 1,
+      "equipo": "Traje de baño, gorro y goggles",
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 7,
+      "nombre": "Fútbol americano",
+      "escenario": "Campo de fútbol americano",
+      "dimensiones": "109.7 x 48.8 metros",
+      "numero_elementos": 11,
+      "equipo": "Casco, jersey, hombreras, pantalón y tacos",
+      "pais": "Estados Unidos"
+    },
+    {
+      "id": 8,
+      "nombre": "Rugby",
+      "escenario": "Campo de rugby",
+      "dimensiones": "100 x 70 metros",
+      "numero_elementos": 15,
+      "equipo": "Playera, short, medias, protector bucal y tacos",
+      "pais": "Inglaterra"
+    },
+    {
+      "id": 9,
+      "nombre": "Handball",
+      "escenario": "Cancha de handball",
+      "dimensiones": "40 x 20 metros",
+      "numero_elementos": 7,
+      "equipo": "Playera, short y tenis",
+      "pais": "Alemania"
+    },
+    {
+      "id": 10,
+      "nombre": "Hockey sobre hielo",
+      "escenario": "Pista de hielo",
+      "dimensiones": "60 x 30 metros",
+      "numero_elementos": 6,
+      "equipo": "Casco, jersey, protecciones, patines y stick",
+      "pais": "Canadá"
     }
   ]
 }
